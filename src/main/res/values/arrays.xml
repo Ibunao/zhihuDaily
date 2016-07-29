@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="apache_licensed_projects" tools:ignore="MissingTranslation">
+        <item>仿照开源项目知乎日报学习制作，添加注释，方便学习。</item>
+        <item>仅为学习使用，如有雷同，纯属抄袭</item>
+        <item>作者:Anding</item>
+        <item>网址:www.bunao.me</item>
+        <item>github地址:http://ibunao.github.io/bunao/</item>
+        <item>原项目地址：https://github.com/izzyleung/ZhihuDailyPurify</item>
+    </string-array>
+</resources>
